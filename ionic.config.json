@@ -1,0 +1,7 @@
+{
+  "name": "safari-bug-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
